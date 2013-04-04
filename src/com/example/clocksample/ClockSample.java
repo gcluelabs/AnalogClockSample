@@ -14,6 +14,4 @@ public class ClockSample extends Activity {
 
 		setContentView(R.layout.main);
 	}
-
-
 }
